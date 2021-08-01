@@ -1,67 +1,61 @@
-# ✭ PREMIUM CRACK
-#### Made With ❤️ By Dapunta  
-```
-Thanks To :
-- Rizal Fiansyah
-- Angga Kurniawan
-- Moch Yayan
-- Hamzah
-- Jessica
-- RATU ERROR
-```
-## ⇨  Feature Login
-```
-[✯] Login Cookies  
-[✯] Login Token  
-[✯] Cookies/Token Awet  
-```
-## ⇨  Feature Crack
-```
-[✯] Crack From Friend, Public, Followers, Likers    
-[✯] Crack Default/Manual Pass  
-[✯] Crack Methode Api, Mbasic, Free FB  
-[✯] Crack With TTL/DOB  
-[✯] Crack Default 4 Country + 1 None
-```
-## ⇨  Install Script On Termux
-```
-$ pkg update && upgrade  
-$ termux-setup-storage  
-$ pkg install python  
-$ pkg install git  
-$ pip install bs4  
-$ pip install requests  
-$ pip install mechanize  
-$ pip install futures  
-$ rm -rf premium  
-$ git clone https://github.com/Calon_Ustadz-CIA/premium  
-```
-## ⇨  Run Script
-```
-$ cd premium  
-$ python premium.py  
-```
-## ⇨  Information
-```
-[!] Kenapa Cracknya Lemot Ngab? Sebab :
-✯ ---> Crack Indonesia = 7 Pass
-✯ ---> Crack India/Bangla = 7 Pass
-✯ ---> Crack Pakistan = 6 Pass
-✯ ---> Crack USA = 7 Pass
-✯ ---> Crack None = 3 Pass
-✯ ---> Kalau Mau Kenceng Dikit Pake (None) Aja
 
-[!] Bedanya Metode Crack Apaan Ngab? Nih :
-✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook
-✯ ---> Mbasic = Metode Lama Yang Masih Valid Sampe Sekarang, Cracknya Lumayan Lambat, Tapi Jarang Kena Spam, Makanya Recommended
-✯ ---> Free = Seperti Mbasic, Bedanya Ganti Tempat Login Aja, Cracknya Paling Lambat, Gak Kena Spam, Kemungkinan Dapet OK
-✯ ---> TTL = (Tahun Tanggal Lahir), Bikin Kena Spam Aje, Tergantung Perangkat Sama Kartu Kalau Inimah
-```
-
-## ⇨ Note
-```
-[!] Dapunta Tidak Pernah Membuat SC Berbayar
-[!] SC Ini 100% Gratis, Resiko Atas Penyalahgunaan, Ditanggung Pengguna
-[!] Recode? Silahkan, Asal Jangan Ganti Bot Follownya
-[!] Dilarang Keras Memperjual Belikan File SC Ini
-```
+@@ -1,42 +1,43 @@
+#  ✭ 𝙋𝙍𝙀𝙈𝙄𝙐𝙈 𝘾𝙍𝘼𝘾𝙆
+##  ⇨   𝙁𝙚𝙖𝙩𝙪𝙧𝙚 𝙇𝙤𝙜𝙞𝙣
+#  KECEK PREMIUM
+##  ⇨   Fitur Login
+[✯] Cookie Masuk  
+[✯] Token Masuk  
+[✯] Cookie/Token Awet  
+##  ⇨   𝙁𝙚𝙖𝙩𝙪𝙧𝙚 𝘿𝙪𝙢𝙥
+##  Pembuangan   Fitur
+[✯] Buang Dari Teman  
+[✯] Buang Dari Publik  
+[✯] Buang Dari Pengikut   
+[✯] Pembuangan Cepat  
+##  ⇨ 𝙁𝙚𝙖𝙩𝙪𝙧𝙚 𝘾𝙧𝙖𝙘𝙠
+##  Fitur Useragent
+[✯] Default Agen Pengguna  
+[✯] Panduan Agen Pengguna
+##  Retak Fitur
+[✯] Retak Default  
+[✯] Panduan Retak  
+[✯] Metode Crack Mbasic  
+[✯] Metode Crack Api  
+[✯] Retak Dengan TTL  
+[✯] Retak Kata Sandi   Default 8
+[✯] Crack Default 7 Kata Sandi  
+- nama  
+- nama123  
+- nama12345  
+- anjing  
+- sayang  
+- bismillah
+- 123456
+- bangsat
+##  ⇨ 𝙄𝙣𝙨𝙩𝙖𝙡𝙡 𝙎𝙘𝙧𝙞𝙥𝙩 𝙊𝙣 𝙏𝙚𝙧𝙢𝙪𝙭
+##  Instal Script Di Termux
+$ pkg memperbarui && meningkatkan  
+$ pkg instal python2  
+$ pkg instal git  
+$pip2 instal lolcat  
+$pip2 instal bs4  
+$ pip2 permintaan pemasangan  
+$ pip2 menginstal mekanis  
+$rm -rf premium  
+$ git clone https://github.com/JUAN-XD/premium  
+##  ⇨   𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩
+##  ⇨   Run Script
+$cd premium  
+$ python2 premium.py
+##  ⇨   𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+##  ⇨   Cara Gunakan
+1. Target Cari Akun
+2. Dump ID Lebih Dahulu
+3. Masukkan ID Sasaran
+@@ -45,4 +46,4 @@ $ python2 premium
+6. File Keluaran Salin
+7. Tekan Kembali, Kemudian Mulai Crack
+8. Masukkan Berkas Keluaran Tadi
+##  ⇨   𝙎𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩
+##  ⇨   Screenshot
